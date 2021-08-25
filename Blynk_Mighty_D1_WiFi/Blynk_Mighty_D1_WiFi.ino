@@ -39,17 +39,11 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "4e08a6a3122343f5beb5c1c94369b4a7"; //imtbtest01;
-//char auth[] = "f82b3aa574924044bcf36597bbab2779"; //imtbtest02; 
-
-char ssid[] = "5630";  //at home;
-char pass[] = "27682477";   //at home;
+char auth[] = "4e08a6a3122343f5beb5********"; //imtbtest01;
+//char auth[] = "f82b3aa574924044bcf365********"; //imtbtest02; 
 
 //char ssid[] = "Classroom";  //at I40 Center;
-//char pass[] = "ntustclassroom";   //at I40 Center;
-
-//char ssid[] = "Jason iphone";
-//char pass[] = "iphone0316";
+//char pass[] = "********";   //at I40 Center;
 
 PZEM004T pzem(&Serial);
 IPAddress ip(192,168,1,1);
