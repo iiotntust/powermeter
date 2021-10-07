@@ -126,12 +126,3 @@
 ![image](https://user-images.githubusercontent.com/90613715/136138409-0ae7aefd-ef6f-4e45-8a47-d71d36fd46ad.png)
 # Running
 ![image](https://user-images.githubusercontent.com/90613715/136138440-3f38078d-2bf1-4a75-8122-edc31f9049b4.png)
-# Appendix: test device / software
-#### https://item.taobao.com/item.htm?spm=a312a.7700824.w5003-18520574512.6.567055c2Ikcsni&id=45589922100&scene=taobao_shop
-![image](https://user-images.githubusercontent.com/90613715/136138480-3b68763e-1cd1-4588-8d92-633ede3a249b.png)
-#### https://pan.baidu.com/share/init?surl=bz0xh5PuSzBmZfRb-qPLPg
-# Install PL2303 driver
-![image](https://user-images.githubusercontent.com/90613715/136138620-39c44856-4758-4f91-8bc3-675683c239a8.png)
-![image](https://user-images.githubusercontent.com/90613715/136138639-b5a8e641-d1d3-4ef8-a0c0-e3d7be3c8843.png)
-# Test / Parameter setting
-![Test Parameter setting](https://user-images.githubusercontent.com/90613715/136138769-676c0629-02f5-4167-bbfc-6b1ce0c78f2d.png)
