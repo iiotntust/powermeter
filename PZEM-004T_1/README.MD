@@ -1,4 +1,4 @@
-The instruction guides you to test the powermeter. (Check powermeter condition before starting the practice.) 
+This instruction guides you to test the powermeter. (Check powermeter condition before starting the practice.) 
 # Appendix: test device / software
 #### https://item.taobao.com/item.htm?spm=a312a.7700824.w5003-18520574512.6.567055c2Ikcsni&id=45589922100&scene=taobao_shop
 ![image](https://user-images.githubusercontent.com/90613715/136138480-3b68763e-1cd1-4588-8d92-633ede3a249b.png)
