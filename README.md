@@ -35,7 +35,8 @@
 ![image](https://user-images.githubusercontent.com/90613715/136136100-d152e3bf-8624-4021-9bc3-dae0cb96fd7f.png)
 # Box dimension
 ### Plastic box
-![image](https://user-images.githubusercontent.com/90613715/136135927-f29f34e9-cd62-4614-b194-f87957ccf004.png)
+![image](https://user-images.githubusercontent.com/56021651/138241407-6d6439bf-e208-4023-9ed6-57efd2259d37.png)
+
 # Board dimension
 ### Power meter & MCU
 ![image](https://user-images.githubusercontent.com/90613715/136134951-5bf0000c-f26d-489f-8a19-0bf996fb4733.png)
