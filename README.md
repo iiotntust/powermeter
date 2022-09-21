@@ -128,4 +128,5 @@
 # Running
 ![image](https://user-images.githubusercontent.com/90613715/136138440-3f38078d-2bf1-4a75-8122-edc31f9049b4.png)
 # Meter functionality validation 
-<img width="805" alt="image" src="https://user-images.githubusercontent.com/56021651/191392003-124c288a-af54-4d51-ad0b-d2e54894f0bb.png">
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/56021651/191392121-bc5361a9-94f0-474b-bc02-12f06b4889ff.png">
+
