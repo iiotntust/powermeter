@@ -1,6 +1,6 @@
 # Hands-on Practice #2 : Power Meter
 # Introduction
-### Purpose : to record the power consumption of facilities 
+### Purpose: to record the power consumption of facilities 
 ### Features : 
 #### • Power spec.: 110 volt, 50~ 60 Hz
 #### • Communication: WiFi
@@ -103,6 +103,8 @@
 # USB-Serial port checking
 ![image](https://user-images.githubusercontent.com/90613715/136137848-6b0a5751-4abe-48d8-870d-c932220ca358.png)
 # Write Sketch to D1 Board
+![136138097-7c533699-a672-43c7-9111-8aed1d91c32d](https://github.com/iiotntust/powermeter/assets/56021651/cc05644d-0939-4379-8bc0-7b7ea82e188f)
+
 ### Blynk_Mighty_D1 (given in class)
 ![Write Sketch to D1 Board](https://user-images.githubusercontent.com/90613715/136137966-cb889366-4588-4546-9dcc-af329039b466.png)
 # Confirmation
