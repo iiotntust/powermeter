@@ -45,7 +45,7 @@
 #### https://item.taobao.com/item.htm?spm=a1z09.2.0.0.77c52e8d1d0eZf&id=596189990505&_u=j2lej2ok0dab
 # Wiring diagram
 ### 100A type
-![100A type](https://user-images.githubusercontent.com/90613715/136135847-424162a5-fef3-4289-920b-60b46bfd5dc4.png)
+![100A type](https://github.com/iiotntust/powermeter/blob/master/%E5%9C%96%E7%89%871.png)
 ### assembly
 ![image](https://user-images.githubusercontent.com/90613715/136136192-00641e13-41f6-482b-b21b-d827607f0a49.png)
 #### https://item.taobao.com/item.htm?spm=a1z09.2.0.0.46822e8dMvP1SW&id=561267884554&_u=k2lej2ok22fe
