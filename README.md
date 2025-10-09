@@ -82,9 +82,8 @@
 # Include Library
 ### ADD-libraries (given in class)
 ### Blynk_Release_v0.4.4 (subject to revise)
-### PZEM004T-master (power meter)
-![image](https://user-images.githubusercontent.com/90613715/136137500-421b0947-d72b-4336-a5f9-03290ea2cf63.png)
-![image](https://user-images.githubusercontent.com/90613715/136137528-e9a0f1c8-8ebc-4be4-93e3-73952a9e44ae.png)
+### PZEM004Tv30 (power meter)
+![image](https://github.com/iiotntust/powermeter/blob/master/%E5%9C%96%E7%89%872.png)
 ### Make sure all libraries installed 
 ![image](https://user-images.githubusercontent.com/90613715/136137591-fc47061f-ef12-4bf2-9d41-a978de395da2.png)
 #### http://help.blynk.cc/en/articles/512105-how-to-install-blynk-library-for-arduino-ide
